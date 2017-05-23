@@ -1,0 +1,65 @@
+.ventilador {
+
+    border: 3px solid #484848;
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    border-radius: 100%;
+    left: 50%;
+    margin-left: -200px;
+    background-color: #efefef;
+
+}
+
+input[type=button] {
+
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+
+}
+
+input[type=button]:hover {
+
+    background-color: #474747;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+
+}
+
+.helice {
+    width: 400px;
+    height: 100px;
+    background-color: #635f64;
+    position: absolute;
+    left: 50%;
+    margin-left: -200px;
+    top: 150px;
+    border-radius: 20%;
+
+    -webkit-animation-name: spin;
+    -webkit-animation-duration: 1000ms;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: linear;
+    -webkit-animation-play-state: paused;
+
+    -moz-animation-name: spin;
+    -moz-animation-duration: 1000ms;
+    -moz-animation-iteration-count: infinite;
+    -moz-animation-timing-function: linear;
+    -moz-animation-play-state: paused;
+}
+
+@-webkit-keyframes spin {
+    from { -webkit-transform: rotate(0deg); }
+    to { -webkit-transform: rotate(360deg); }
+}
+
+@-moz-keyframes spin {
+    from { -moz-transform: rotate(0deg); }
+    to { -moz-transform: rotate(360deg); }
+}

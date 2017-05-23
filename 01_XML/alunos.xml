@@ -1,0 +1,26 @@
+<alunos>
+    <aluno>
+        <nome>Jaime Palilo</nome>
+        <email>jp@carrossel.com.br</email>
+        <idade>10</idade>
+        <telefone>3333.2211</telefone>
+    </aluno>
+    <aluno>
+        <nome>Marcelina Guerra</nome>
+        <email>mguerra@carrossel.com.br</email>
+        <idade>9</idade>
+        <telefone>3333.1122</telefone>
+    </aluno>
+    <aluno>
+        <nome>Jorge Del Salto</nome>
+        <email>jorgeds@carrossel.com.br</email>
+        <idade>11</idade>
+        <telefone>3333.1234</telefone>
+    </aluno>
+    <aluno>
+        <nome>Maria Joaquina</nome>
+        <email>mariaj@carrossel.com.br</email>
+        <idade>9</idade>
+        <telefone>3333.2244</telefone>
+    </aluno>
+</alunos>

@@ -1,0 +1,41 @@
+.figura {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    margin: 30px;
+}
+
+.trianguloEquilatero {
+    width: 0px;
+    height: 0px;
+    border-style: solid;
+    border-width: 0 100px 173.2px 100px;
+    border-color: transparent transparent #f70830 transparent;
+}
+
+.trianguloIsoceles {
+    width: 0px;
+    height: 0px;
+    border-style: solid;
+    border-width: 0 200px 200px 200px;
+    border-color: transparent transparent #f70830 transparent;
+}
+
+.trianguloEscaleno {
+    width: 0px;
+    height: 0px;
+    border-style: solid;
+    border-width: 0 100px 300px 200px;
+    border-color: transparent transparent #f70830 transparent;
+}
+
+
+.circulo {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    border-radius: 100%;
+    margin: 30px;
+}

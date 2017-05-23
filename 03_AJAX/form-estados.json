@@ -1,0 +1,48 @@
+{
+    "estados": [
+
+      {
+
+        "sigla" : "CE",
+        "nome" : "Ceara",
+        "cidades" :[
+
+          {
+           "sigla":"For",
+            "nome":"Fortaleza"
+          },
+
+          {
+            "sigla":"Jua",
+            "nome":"Juazeiro"
+          },
+
+          {
+            "sigla":"Pac",
+            "nome":"Pacajus"
+          }
+
+        ]
+
+      },
+      {
+        "sigla": "RN",
+        "nome": "Rio Grande do Norte",
+        "cidades": [
+          {
+            "sigla": "Nat",
+            "nome": "Natal"
+          },
+          {
+            "sigla": "Mos",
+            "nome": "Mossoro"
+          },
+          {
+            "sigla": "Laj",
+            "nome": "Lajes"
+          }
+        ]
+      }
+
+    ]
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "nome":"Jaime Palilo",
+        "email":"jp@carrossel.com.br",
+        "idade":10,
+        "telefone":"3333.2211"
+    },
+    {
+        "nome":"Marcelina Guerra",
+        "email":"mguerra@carrossel.com.br",
+        "idade":9,
+        "telefone":"3333.1122"
+    },
+    {
+        "nome":"Jorge Del Salto",
+        "email":"jorgeds@carrossel.com.br",
+        "idade":10,
+        "telefone":"3333.1234"
+    },
+    {
+        "nome":"Maria Joaquina",
+        "email":"mariaj@carrossel.com.br",
+        "idade":9,
+        "telefone":"3333.2244"
+    }
+]
